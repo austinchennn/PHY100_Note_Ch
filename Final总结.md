@@ -64,7 +64,9 @@
         
     - **解题场景**: 棒球棍击打飞来的棒球。已知棒球飞来的速度、击打后飞出的速度（算出动量变化），以及球棍与球接触的短暂时间，求击打的平均作用力。
         
-- **动量守恒定律**: Principle of Conservation of Linear Momentum $P_{initial}=P_{final}$ 以及展开式 $(m_{1}v_{1}+m_{2}v_{2}+...)_{initial}=(m_{1}v_{1}+m_{2}v_{2}+...)_{final}$
+	- **动量守恒定律**: Principle of Conservation of Linear Momentum $P_{initial}=P_{final}$ 
+	
+		- 展开式 $(m_{1}v_{1}+m_{2}v_{2}+...)_{initial}=(m_{1}v_{1}+m_{2}v_{2}+...)_{final}$
     
     - **解释**: 在没有外力干扰的封闭系统中，事件发生前后的总动量保持不变。
         
