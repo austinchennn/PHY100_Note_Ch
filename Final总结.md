@@ -66,7 +66,7 @@
         
 	- **动量守恒定律**: Principle of Conservation of Linear Momentum $P_{initial}=P_{final}$ 
 	
-		- 展开式 $(m_{1}v_{1}+m_{2}v_{2}+...)_{initial}=(m_{1}v_{1}+m_{2}v_{2}+...)_{final}$
+		- 展开式 $(m_{1}v_{1}+m_{2}v_{2}+...)_{initial}=(m_{1}v_{1}+m_{2}v_{2}+...)_{final}$`
     
     - **解释**: 在没有外力干扰的封闭系统中，事件发生前后的总动量保持不变。
         
@@ -76,7 +76,9 @@
     
     - **解释**: 物体由于运动而具备的能量。
         
-- **动能定理**: Work - Energy Theorem: Work Done = Change in Kinetic Energy 以及 $W=\Delta KE=\frac{1}{2}mv_{f}^{2}-\frac{1}{2}mv_{i}^{2}$
+- **动能定理**: Work - Energy Theorem: Work Done = Change in Kinetic Energy
+- 
+	- **公式**: $W=\Delta  KE=\frac{1}{2}mv_{f}^{2}-\frac{1}{2}mv_{i}^{2}$
     
     - **解释**: 合外力对物体做的总功，正好等于它动能的增加或减少量。
         
@@ -85,6 +87,7 @@
 - **机械能守恒**: Principle of Conservation of Mechanical Energy: $W_{dissipated}=E_{final}-E_{initial}$
     
     - **解释**: $W_{dissipated}$ 代表非保守力（比如摩擦力）做的功造成的能量耗散 。
+    - **解释**:  总能量$E = PE + KE = (mgh+\frac{1}{2}mv^{2})$
         
     - **解题场景**: 如果没有摩擦力（$W_{dissipated}=0$），重力势能和动能就可以完美转换：$(mgh+\frac{1}{2}mv_{0}^{2})_{initial}=(mgh+\frac{1}{2}mv_{f}^{2})_{final}$ 。常用于计算过山车从顶点（重力势能最高）无摩擦滑到底部（动能最高）时的极限速度。
         
